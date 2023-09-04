@@ -12,6 +12,7 @@ I'm infinitely growing devloper, Gi-Woong Lee
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 
 <br/>
+<br/>
 
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <br/>
@@ -22,9 +23,18 @@ I'm infinitely growing devloper, Gi-Woong Lee
 <br/>
 
 ### •••
+
+<a href="https://velog.io/@oro7l">
 <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+</a>
+
+<a href="https://instagram.com/oro7l">
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="mailto:xz305@naver.com">
 <img src="https://img.shields.io/badge/mail-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+</a>
 
 <br/>
 <br/>

@@ -28,7 +28,7 @@ I'm infinitely growing devloper, Gi-Woong Lee
 <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
 </a>
 
-<a href="https://instagram.com/oro7l">
+<a href="https://www.instagram.com/oro_7l/">
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 

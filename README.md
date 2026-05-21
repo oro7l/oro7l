@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome%20my%20github%20profile%20!&fontSize=30&fontAlign=50&fontColor=ffffff&color=timeGradient&height=200&animation=blink)
 
 ### 👋 Hi there 👋 
-I'm infinitely growing devloper, Gi-Woong Lee
+I'm infinitely growing devloper, Kiwoong Lee
 
 <br/>
 
